@@ -15,7 +15,7 @@ Easy customization for adding your own touch.
 ## Usage
 Clone the repository to your local machine:
 
-`git clone https://github.com/swapniltake1/valentine-day-special.git`
+`git clone https://github.com/wira09/valentine-day.git`
 
 Open index.html in your web browser.
 Enjoy the Valentine's Day Special with your loved ones!
